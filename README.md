@@ -1,4 +1,4 @@
-# CSC496_2019F Deep learning in computer vision by Prof. Bei Xiao
+# CSC496_2019F Deep learning in computer vision
 
 Instructor: <a href="https://sites.google.com/site/beixiao/">Bei Xiao</a>, American University
 Location: DMTI Room 110
@@ -38,4 +38,25 @@ This course provides an overview of “deep neural network” (AKA deep learning
 4.  Python/Numpy tutorials (https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf)
 
 5.  Probability and statistics, seeing theory (https://seeing-theory.brown.edu/)
+
+## Course Policy
+### Attendence policy
+
+Missing one class without written request will result in 2% reduction in attendance score.   However, students can be absent for class and arrange for make-up exams if they have written proof of religious holidays and documented disabilities. Athlete who would miss class due to sports events must send written form to instructor at least 24 hours before the class. 
+
+### Homework late policy
+Projects are due 11:59pm of the due date. You usually have two weeks to finish the assigned project.  
+
+We do not accept late submissions for this course. The submission deadline has a 50-minute soft cut-off; after midnight, submissions are penalized 2% per minute late.  
+
+###Exam Policy
+Mid-term exam will be announced at least one week ahead of time. If you have special needs, you need to notify me at least 7 days before to arrange the test be performed off-class in the exam center. Missed exams and quizzes cannot be made up. 
+
+###Email Policy
+You can email me if you have questions regarding lectures and homeworks. But you must write to me at least 48 hours to expect an answer. No homework is accepted via Email. Everything must be uploaded onto Blackboard. 
+
+## Grading 
+65% homework projects, 10% mid-term exam, 15% Final project, 5% in-class quiz, 5% attendances.  We sometimes offer extra credits for additional features in homework and projects. 
+
+
 
