@@ -64,5 +64,5 @@ You can email me if you have questions regarding lectures and homeworks. But you
 
 Date | Lecture&Topic | Course Materials   | Assignments
 ------- | ---------------- | ---------- | ---------:
-|Mon, August 26 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Course Introduction </a> | Szeliski 1, Goodfellow 2| Numpy/python Warm-up|
+|Mon, August 26 | <a href="">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2| Numpy/python Warm-up|
 
