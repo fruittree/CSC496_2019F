@@ -58,5 +58,11 @@ You can email me if you have questions regarding lectures and homeworks. But you
 ## Grading 
 65% homework projects, 10% mid-term exam, 15% Final project, 5% in-class quiz, 5% attendances.  We sometimes offer extra credits for additional features in homework and projects. 
 
+## Course Schedule
 
+
+
+Date | Lecture&Topic | Course Materials   | Assignments
+------- | ---------------- | ---------- | ---------:
+|Mon, August 26 | <a href="https://github.com/fruittree/CSC476ComputerVision/blob/master/Lecture1.pdf">Lecture 1: Course Introduction </a> | Szeliski 1, Goodfellow 2| Numpy/python Warm-up|
 
