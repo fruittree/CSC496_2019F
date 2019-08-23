@@ -7,16 +7,17 @@ Office: DMTI Room 204
 First Class: August 26th
 
 Office hour: check syllabus 
+
 # General Information
 
 ## Course Objective
 
-This course provides an overview of “deep neural network” (AKA deep learning) and related methods with applications in computer vision. First, we will overview (continue after CSC 476) some fundamental topics in computer vision such as image formation, camera models, color, signal processing, and statistical modeling of images. Second, we will introduce basic machine learning methods and neural network architectures. Finally, we dive into a variety of deep learning-based applications in computer vision including image classification, video analysis and image synthesis.  Students learn to implement, train, and debug off-the shelf and their own neural networks and gain a detailed understanding of the cutting-edge research in computer vision. Topics include visual data representation, mid-level vision, image parsing, object recognition with architectures such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative-advisory networks (GANs), and Variational Autoencoders (VAEs).
+This course provides an overview of “deep neural network” (AKA deep learning) and related methods with applications in computer vision. First, we will overview (continue after CSC 476) some fundamental topics in computer vision such as image formation, camera models, color, signal processing, and statistical modeling of images. Second, we will introduce basic machine learning methods and neural network architectures. Finally, we dive into a variety of deep learning-based applications in computer vision including image classification, video analysis and image synthesis. Students learn to implement, train, and debug off-the shelf and their own neural networks and gain a detailed understanding of the cutting-edge research in computer vision. Topics include visual data representation, mid-level vision, image parsing, object recognition with architectures such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative-advisory networks (GANs), representational learning, and GPU computinng.
 
 
 ## Perquisites
 
-1. Proficiency in Python.  
+1. Proficiency in Python. If you have plenty of coding experieces with MATLAB, C++, is fine too. 
 2. College Calculus
 3. Basic probability and statistics
 
@@ -64,7 +65,7 @@ You can email me if you have questions regarding lectures and homeworks. But you
 
 Date | Lecture&Topic | Course Materials   | Assignments
 ------- | ---------------- | ---------- | ---------:
-|Mon, August 26 | <a href="">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2:Linear Algebra review| Project 0: virtual box/numpy/python|
+|Mon, August 26 | <a href="">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2:Linear Algebra review| Project 1: set up virtual box/numpy/python warm up|
 
 
 
