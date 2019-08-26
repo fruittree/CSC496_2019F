@@ -50,10 +50,10 @@ Projects are due 11:59pm of the due date. You usually have two weeks to finish t
 
 We do not accept late submissions for this course. The submission deadline has a 50-minute soft cut-off; after midnight, submissions are penalized 2% per minute late.  
 
-###Exam Policy
+### Exam Policy
 Mid-term exam will be announced at least one week ahead of time. If you have special needs, you need to notify me at least 7 days before to arrange the test be performed off-class in the exam center. Missed exams and quizzes cannot be made up. 
 
-###Email Policy
+### Email Policy
 You can email me if you have questions regarding lectures and homeworks. But you must write to me at least 48 hours to expect an answer. No homework is accepted via Email. Everything must be uploaded onto Blackboard. 
 
 ## Grading 
