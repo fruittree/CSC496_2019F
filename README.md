@@ -48,7 +48,7 @@ Missing one class without written request will result in 2% reduction in attenda
 ### Homework late policy
 Projects are due 11:59pm of the due date. You usually have two weeks to finish the assigned project.  
 
-We do not accept late submissions for this course. The submission deadline has a 50-minute soft cut-off; after midnight, submissions are penalized 2% per minute late.  
+We do not accept late submissions for this course. Homework is typically due 11:59pm.  The submission deadline has a 24-hour soft cut-off; after midnight, submissions are penalized 5% per hour late round up to the next hour (automated by Blackboard).  So, you turned it in 2:59am. You will get 3 hours penalty with a 15% point reduction. There is no negotiation about this.  
 
 ### Exam Policy
 Mid-term exam will be announced at least one week ahead of time. If you have special needs, you need to notify me at least 7 days before to arrange the test be performed off-class in the exam center. Missed exams and quizzes cannot be made up. 
@@ -65,7 +65,7 @@ You can email me if you have questions regarding lectures and homeworks. But you
 
 Date | Lecture&Topic | Course Materials   | Assignments
 ------- | ---------------- | ---------- | ---------:
-|Mon, August 26 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture1">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2:Linear Algebra review| <a href="">Python/Numpy Primer, Project 1: set up virtual box/numpy/python warm up|
+|Mon, August 26 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture1">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2:Linear Algebra review| <a href="">Python/Numpy Primer, Project 1: set up virtual box, Numpy primer|
 
 
 
