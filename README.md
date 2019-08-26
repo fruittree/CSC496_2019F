@@ -19,7 +19,7 @@ This course provides an overview of “deep neural network” (AKA deep learning
 
 1. Proficiency in Python. If you have plenty of coding experieces with MATLAB, C++, is fine too. 
 2. College Calculus
-3. Basic probability and statistics
+3. Basic probability, statistics andlinear algebra. 
 
 
 ## Textbooks and references
@@ -65,7 +65,7 @@ You can email me if you have questions regarding lectures and homeworks. But you
 
 Date | Lecture&Topic | Course Materials   | Assignments
 ------- | ---------------- | ---------- | ---------:
-|Mon, August 26 | <a href="">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2:Linear Algebra review| Project 1: set up virtual box/numpy/python warm up|
+|Mon, August 26 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture1">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2:Linear Algebra review| Project 1: set up virtual box/numpy/python warm up|
 
 
 
