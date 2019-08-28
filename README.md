@@ -24,8 +24,8 @@ This course provides an overview of “deep neural network” (AKA deep learning
 
 ## Textbooks and references
 
-1.	(Required) R. Szeliski, Computer Vision: Algorithms and Applications available at 
-(http://research.microsoft.com/en-us/um/people/szeliski/Book/)
+1.	(Required) R. Szeliski, Computer Vision: Algorithms and Applications available at 
+(http://szeliski.org/Book/.)
 
 2.   (Required) I. Goodfellow, Deep learning (http://www.deeplearningbook.org)
 
