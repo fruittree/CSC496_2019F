@@ -39,6 +39,7 @@ This course provides an overview of “deep neural network” (AKA deep learning
 4.  Python/Numpy tutorials (https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf)
 
 5.  Probability and statistics, seeing theory (https://seeing-theory.brown.edu/)
+6.  Tensorflow and machine learning (https://www.tensorflow.org/tutorials/keras)
 
 ## Course Policy
 ### Attendence policy
@@ -66,6 +67,6 @@ You can email me if you have questions regarding lectures and homeworks. But you
 Date | Lecture&Topic | Course Materials   | Assignments
 ------- | ---------------- | ---------- | ---------:
 |Mon, August 26 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture1">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2:Linear Algebra review| <a href="">Python/Numpy Primer, Project 1: set up virtual box, Numpy primer|
-
+|Thursday, August 28 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture2">Lecture 2: A simple visual system </a> | Szeliski 3, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2:Linear Algebra review| <a href="">Project 1: set up virtual box, Numpy Exercise|
 
 
