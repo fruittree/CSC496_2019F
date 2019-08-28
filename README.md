@@ -24,8 +24,8 @@ This course provides an overview of “deep neural network” (AKA deep learning
 
 ## Textbooks and references
 
-1.	(Required) R. Szeliski, Computer Vision: Algorithms and Applications available at 
-(http://research.microsoft.com/en-us/um/people/szeliski/Book/)
+1.	(Required) R. Szeliski, Computer Vision: Algorithms and Applications available at 
+(http://szeliski.org/Book/.)
 
 2.   (Required) I. Goodfellow, Deep learning (http://www.deeplearningbook.org)
 
@@ -65,7 +65,7 @@ You can email me if you have questions regarding lectures and homeworks. But you
 
 Date | Lecture&Topic | Course Materials   | Assignments
 ------- | ---------------- | ---------- | ---------:
-|Mon, August 26 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture1">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2:Linear Algebra review| <a href="">Python/Numpy Primer, Project 1: set up virtual box, Numpy primer|
+|Mon, August 26 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture1">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="http://www.deeplearningbook.org/contents/linear_algebra.html">Goodfellow 2:Linear Algebra review| <a href="">Python/Numpy Primer, Project 1: set up virtual box, Numpy primer|
 
 
 
