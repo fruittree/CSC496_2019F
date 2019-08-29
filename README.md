@@ -12,7 +12,7 @@ Office hour: check syllabus
 
 ## Course Objective
 
-This course provides an overview of “deep neural network” (AKA deep learning) and related methods with applications in computer vision. First, we will overview (continue after CSC 476) some fundamental topics in computer vision such as camera models, color, multiscale pyramids, and statistical modeling of images. Second, we will introduce basic machine learning methods and neural network architectures. Finally, we dive into a variety of deep learning-based applications in computer vision.  Students learn to implement, train, and debug off-the shelf and their own neural networks and gain a detailed understanding of the cutting-edge research in computer vision. Topics include visual data representation, mid-level vision, image parsing, image classification and synthesis with architectures such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative-advisory networks (GANs), and Variational Autoencoders (VAEs).  
+This course provides an overview of “deep neural network” (AKA deep learning) and related methods with applications in computer vision. First, we will overview (continue after CSC 476) some fundamental topics in computer vision such as image formation, camera models, color, multiscale pyramids, and statistical modeling of images. Second, we will introduce basic machine learning methods and neural network architectures. Finally, we dive into a variety of deep learning-based applications in computer vision.  Students learn to implement, train, and debug off-the shelf and their own neural networks and gain a detailed understanding of the cutting-edge research in computer vision. Topics include visual data representation, mid-level vision, image parsing, image classification and synthesis with architectures such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative-advisory networks (GANs), and Variational Autoencoders (VAEs).  
 
 
 ## Perquisites
@@ -55,7 +55,7 @@ We do not accept late submissions for this course. Homework is typically due 11:
 Mid-term exam will be announced at least one week ahead of time. If you have special needs, you need to notify me at least 7 days before to arrange the test be performed off-class in the exam center. Missed exams and quizzes cannot be made up. 
 
 ### Email Policy
-You can email me if you have questions regarding lectures and homeworks. But you must write to me at least 48 hours to expect an answer. No homework is accepted via Email. Everything must be uploaded onto Blackboard. 
+You can email me if you have questions regarding clarification of lectures and homeworks. But you must write to me at least 48 hours to expect an answer. No homework is accepted via Email. Everything must be uploaded onto Blackboard. Elaborate homework-related questions are restricted to office hours. 
 
 ## Grading 
 65% homework projects, 10% mid-term exam, 15% Final project, 5% in-class quiz, 5% attendances.  We sometimes offer extra credits for additional features in homework and projects. 
