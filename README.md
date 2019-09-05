@@ -68,6 +68,6 @@ Date | Lecture&Topic | Course Materials   | Assignments
 ------- | ---------------- | ---------- | ---------:
 |Mon, August 26 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture1">Lecture 1: Course Introduction </a> | Szeliski 1, <a href="https://www.deeplearningbook.org/contents/part_basics.html">Goodfellow 2:Linear Algebra review| <a href="">Project 1: set up virtual box, Numpy primer</a>, <a href="https://realpython.com/jupyter-notebook-introduction/">jupyter notebook tutorial</a>|
 |Thursday, August 29 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture2">Lecture 2: A simple visual system </a> | <a href="http://6.869.csail.mit.edu/fa13/lectures/chapter_01_simplesystem.pdf">Blockworld: a simple vision system</a>|<a href="https://github.com/fruittree/CSC496_2019F/blob/master/Tutorials/VirtualMachinesviaVagrantandVirtualBox_2019_CV.pdf">VirtualBox Tutorial</a>|
-|Thursday, September 5 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture3">Lecture 3: pinhoel camera</a> | <a href="http://6.869.csail.mit.edu/fa13/lectures/chapter_01_simplesystem.pdf">Blockworld: a simple vision system</a>|<a href="https://github.com/fruittree/CSC496_2019F/blob/master/Tutorials/VirtualMachinesviaVagrantandVirtualBox_2019_CV.pdf">VirtualBox Tutorial</a>|
+|Thursday, September 5 | <a href="https://github.com/fruittree/CSC496_2019F/tree/master/Lectures/Lecture3">Lecture 3: pinhoel camera</a> | <a href="http://6.869.csail.mit.edu/fa13/lectures/chapter_01_simplesystem.pdf">Camera</a>|
 
 
